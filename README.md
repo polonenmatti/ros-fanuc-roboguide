@@ -4,8 +4,8 @@ This repository is for Uef summer school 2025 course "Industrial robotics and au
 Setup:
 - 1 PC only
 - Windows 11 host running Fanuc Roboguide simulating Fanuc M-10iA robot
-- WLS2 installtion of Linux Ubuntu 20.04 running ros-noetic (ROS 1)
-- ROS industrial community driver for Fanuc
+- [WLS2 installtion of Linux Ubuntu 20.04](https://documentation.ubuntu.com/wsl/stable/howto/install-ubuntu-wsl2/) running [ROS-Noetic](https://wiki.ros.org/noetic/Installation/Ubuntu)
+- [ROS industrial community driver for Fanuc](https://github.com/ros-industrial/fanuc)
     - TPE & Karel programs are (documented) for fanuc controller v 7.70
  
 Prequisites:
