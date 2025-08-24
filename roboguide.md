@@ -12,5 +12,6 @@ Common issues:
 
 <img width="397" height="183" alt="image" src="https://github.com/user-attachments/assets/1e421e17-c9f0-45d4-835e-4740d2a2e996" />
 
-Install .Net Framework 2.0
+Install .Net Framework 2.0 https://www.microsoft.com/en-us/download/details.aspx?id=6041
+
 
