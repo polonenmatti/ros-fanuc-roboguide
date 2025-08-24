@@ -10,6 +10,7 @@ Setup:
  
 Prequisites:
 - Windows 11 installed with local administor rights
+- Microsoft .Net Framework 2.0 https://www.microsoft.com/en-us/download/details.aspx?id=6041
 - Download trial of Roboguide from Fanuc (you might have to contact fanuc to be able to download it). Preferably you should have licence.
 
 [Roboguide install](https://github.com/polonenmatti/ros-fanuc-roboguide/blob/main/roboguide.md)
