@@ -1,5 +1,5 @@
 # ros-fanuc-roboguide
-Uef summer school industrial robotics and automation project. In this project I tried to get simulated fanuc robot connected with ROS stack.
+This repository is for Uef summer school 2025 course "Industrial robotics and automation" project work. In this project I tried to get simulated fanuc robot connected with ROS stack.
 
 Setup:
 - 1 PC only
