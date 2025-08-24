@@ -15,3 +15,11 @@ Common issues:
 Install .Net Framework 2.0 https://www.microsoft.com/en-us/download/details.aspx?id=6041
 
 
+Anti-virus & Firewall issues:
+<img width="471" height="513" alt="image" src="https://github.com/user-attachments/assets/e42384fb-2e0b-4438-81d7-9cc13155e5d5" />
+
+<img width="897" height="481" alt="image" src="https://github.com/user-attachments/assets/fcdd8e00-c0bd-4703-91f0-e66f8acc262d" />
+
+
+
+
