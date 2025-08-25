@@ -15,13 +15,21 @@ Open up GIT Bash
 Start up ROBOGUIDE and start creating new workcell with Workcell Creation Wizard.
 
 Step 1: Give name.
+
 Step 2: Select a new robot with the default HandlingPRO config
+
 Step 3: Robot Software Version V7.70
+
 Step 4: Handlingtool & Set Eoat later.
+
 Step 5: Robot - H863 - M-10iA
+
 Step 6: Next
+
 Step 7: Select Karel (R632) & User Socket Msg (R648)
+
 Step 8: Finish
+
 
 <img width="760" height="765" alt="image" src="https://github.com/user-attachments/assets/63aa04ba-1e53-4eaa-ad60-cd0e98ac6e9d" />
 
