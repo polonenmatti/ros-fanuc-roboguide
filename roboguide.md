@@ -73,6 +73,37 @@ You can exit command line.
 
 [ROS Wiki Fanuc Tutorials Step 1 - 2](https://wiki.ros.org/fanuc/Tutorials)
 
+Add following files to your robot from `c:\users\%username%\documents\fanuc\fanuc_driver\karel\`
+
+<img width="116" height="233" alt="image" src="https://github.com/user-attachments/assets/24bb4e5b-4e18-4459-99bc-7af8bcfdcf37" />
+
+And these too from `c:\users\%username%\documents\fanuc\fanuc_driver\tpe`
+
+<img width="641" height="107" alt="image" src="https://github.com/user-attachments/assets/e5865bbf-6fe3-4afc-b9d4-9c17280a4f2c" />
+
+Build all files:
+
+<img width="510" height="328" alt="image" src="https://github.com/user-attachments/assets/e89938f6-8c1d-4d7c-bb87-6f6125f9cbce" />
+
+Edit List under Export Files:
+
+<img width="514" height="342" alt="image" src="https://github.com/user-attachments/assets/d41fed0a-6443-4977-9d7f-2d26820d1266" />
+
+Select All -> Apply -> Ok
+
+<img width="340" height="455" alt="image" src="https://github.com/user-attachments/assets/29dd2a9a-0d24-449a-ba8b-63e749f65e41" />
+
+
+Export all to robot:
+
+<img width="549" height="356" alt="image" src="https://github.com/user-attachments/assets/47a8f16c-bbca-45c7-8fad-0d93f3e1d614" />
+
+Under programs you should have (right click programs -> view all):
+
+<img width="165" height="478" alt="image" src="https://github.com/user-attachments/assets/84115735-360a-4c68-a5df-1c95372d1aed" />
+
+
+
 
 
 
