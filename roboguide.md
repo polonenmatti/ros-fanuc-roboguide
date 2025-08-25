@@ -111,6 +111,8 @@ Under programs you should have (right click programs -> view all):
 
 [ROS Wiki Fanuc Tutorials Step 2](https://wiki.ros.org/fanuc/Tutorials)
 
+Edit flags:
+
 (Menu→SETUP→Host Comm)
 SETUP Servers listing using [SHOW]→Servers
 
@@ -120,7 +122,25 @@ SETUP Servers listing using [SHOW]→Servers
 
 <img width="633" height="444" alt="image" src="https://github.com/user-attachments/assets/224bb49b-8d53-4998-86c0-7f24998aa573" />
 
+Edit Karel program ros_relay
+Select -> Type Karel
+and then select ros_relay -> press data -> type KAREL Vars
+Select 1 CFG_   RRELAY_CFG_T and press enter
 
+Edit following:
+<img width="346" height="319" alt="image" src="https://github.com/user-attachments/assets/031b236a-99bd-449e-9766-081fdc84c9a1" />
+
+Edit Karel program ros_state
+Select -> Type Karel
+and then select ros_state -> press data -> type KAREL Vars
+Select 1 CFG_   RSTATE_CFG_T and press enter
+
+Edit following:
+<img width="317" height="240" alt="image" src="https://github.com/user-attachments/assets/8643cc38-6795-4078-a98f-be39d8acafe8" />
+
+If using default PR, R, F no further editing needed.
+
+Next step would be to run programs, but we need to prepape our Linux ROS-noetic stack.
 
 
 
