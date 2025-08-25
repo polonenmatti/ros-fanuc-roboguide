@@ -4,13 +4,41 @@ During process when asking process plugins, select at least HandlingPRO.
 
 <img width="501" height="391" alt="Image" src="https://github.com/user-attachments/assets/8a4d8a27-8027-426d-8310-55ea7722009d" />
 
-Select at least FRVRC V7.70 when asked for FANUC Robotics Virtual Robot Selection
+Select at least FRVRC V7.70 when asked for FANUC Robotics Virtual Robot Selection and finnish installation process.
 
 Go to `c:\users\%username%\documents\`
 
 Open up GIT Bash
 
 `git clone https://github.com/ros-industrial/fanuc`
+
+Start up ROBOGUIDE and start creating new workcell with Workcell Creation Wizard.
+
+Step 1: Give name.
+Step 2: Select a new robot with the default HandlingPRO config
+Step 3: Robot Software Version V7.70
+Step 4: Handlingtool & Set Eoat later.
+Step 5: Robot - H863 - M-10iA
+Step 6: Next
+Step 7: Select Karel (R632) & User Socket Msg (R648)
+Step 8: Finish
+
+<img width="760" height="765" alt="image" src="https://github.com/user-attachments/assets/63aa04ba-1e53-4eaa-ad60-cd0e98ac6e9d" />
+
+On robot controller initialization:
+Robot type: 2. M-10iA
+Cable dress-out type: 1
+J1 Motion range setting: 1
+
+From Robot menu -> Interner Explorer check that robot homepage opens in 127.0.0.1
+
+<img width="1238" height="179" alt="image" src="https://github.com/user-attachments/assets/533ee5e1-12ed-46f8-9f41-77150f6fd393" />
+
+
+
+
+
+
 
 
 
