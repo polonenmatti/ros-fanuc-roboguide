@@ -60,6 +60,10 @@ If all good, you should see:
 
 <img width="493" height="144" alt="image" src="https://github.com/user-attachments/assets/d95b1105-5115-48ed-9fa8-3633c3a3c44d" />
 
+You can exit command line.
+
+
+
 
 
 
