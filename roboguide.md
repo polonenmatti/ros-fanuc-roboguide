@@ -6,6 +6,12 @@ During process when asking process plugins, select at least HandlingPRO.
 
 Select at least FRVRC V7.70 when asked for FANUC Robotics Virtual Robot Selection
 
+Go to `c:\users\%username%\documents\`
+
+Open up GIT Bash
+
+`git clone https://github.com/ros-industrial/fanuc`
+
 
 
 Common issues:
