@@ -140,7 +140,10 @@ Edit following:
 
 If using default PR, R, F no further editing needed.
 
-Next step would be to run programs, but we need to prepape our Linux ROS-noetic stack.
+Next step would be to run programs, but we need to prepape our Linux and ROS-noetic stack.
+
+[Install WSL2 Linux](https://github.com/polonenmatti/ros-fanuc-roboguide/blob/main/wsl2-ubuntu.md)
+
 
 
 
