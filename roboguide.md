@@ -1,16 +1,21 @@
 
-Install roboguide.
+## Install roboguide.
+
 During process when asking process plugins, select at least HandlingPRO.
 
 <img width="501" height="391" alt="Image" src="https://github.com/user-attachments/assets/8a4d8a27-8027-426d-8310-55ea7722009d" />
 
 Select at least FRVRC V7.70 when asked for FANUC Robotics Virtual Robot Selection and finnish installation process.
 
+## Clone fanuc industrial repo to windows host
+
 Go to `c:\users\%username%\documents\`
 
 Open up GIT Bash
 
 `git clone https://github.com/ros-industrial/fanuc`
+
+## Create roboguide workcell
 
 Start up ROBOGUIDE and start creating new workcell with Workcell Creation Wizard.
 
@@ -33,6 +38,8 @@ Step 8: Finish
 
 <img width="760" height="765" alt="image" src="https://github.com/user-attachments/assets/63aa04ba-1e53-4eaa-ad60-cd0e98ac6e9d" />
 
+## Initialize robot
+
 On robot controller initialization:
 
 Robot type: 2. M-10iA
@@ -41,7 +48,7 @@ Cable dress-out type: 1
 
 J1 Motion range setting: 1
 
-
+## Test
 
 From Robot menu -> Interner Explorer check that robot homepage opens in 127.0.0.1
 
