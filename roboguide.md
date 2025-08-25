@@ -1,3 +1,4 @@
+# Preparing roboguide 
 
 ## Install roboguide.
 
@@ -69,9 +70,11 @@ If all good, you should see:
 
 You can exit command line.
 
-## Follow Fanuc industrial driver installation guide
+## Follow Fanuc industrial driver installation guide step 1
 
-[ROS Wiki Fanuc Tutorials Step 1 - 2](https://wiki.ros.org/fanuc/Tutorials)
+[ROS Wiki Fanuc Tutorials Step 1](https://wiki.ros.org/fanuc/Tutorials)
+
+## Install from source
 
 Add following files to your robot from `c:\users\%username%\documents\fanuc\fanuc_driver\karel\`
 
@@ -80,6 +83,8 @@ Add following files to your robot from `c:\users\%username%\documents\fanuc\fanu
 And these too from `c:\users\%username%\documents\fanuc\fanuc_driver\tpe`
 
 <img width="641" height="107" alt="image" src="https://github.com/user-attachments/assets/e5865bbf-6fe3-4afc-b9d4-9c17280a4f2c" />
+
+## Build from source
 
 Build all files:
 
@@ -101,6 +106,20 @@ Export all to robot:
 Under programs you should have (right click programs -> view all):
 
 <img width="165" height="478" alt="image" src="https://github.com/user-attachments/assets/84115735-360a-4c68-a5df-1c95372d1aed" />
+
+## Follow Configuration of the ROS-Industrial driver on Fanuc controllers
+
+[ROS Wiki Fanuc Tutorials Step 2](https://wiki.ros.org/fanuc/Tutorials)
+
+(Menu→SETUP→Host Comm)
+SETUP Servers listing using [SHOW]→Servers
+
+<img width="642" height="440" alt="image" src="https://github.com/user-attachments/assets/a58e37d5-45ed-45f0-883e-f6686c9b9fdc" />
+
+<img width="645" height="443" alt="image" src="https://github.com/user-attachments/assets/9f3f7862-a403-4715-b2b1-7436f41e90e8" />
+
+<img width="633" height="444" alt="image" src="https://github.com/user-attachments/assets/224bb49b-8d53-4998-86c0-7f24998aa573" />
+
 
 
 
