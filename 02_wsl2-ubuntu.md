@@ -35,7 +35,7 @@ Go to Optional Features
 Check that Enable GUI applications is ON.
 
 
-[Continue to ROS-Noetic Install](url)
+[Continue to ROS-Noetic Install](https://github.com/polonenmatti/ros-fanuc-roboguide/blob/main/03_ros-noetic.md)
 
 
 
