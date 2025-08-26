@@ -118,14 +118,18 @@ SETUP Servers listing using [SHOW]→Servers
 
 <img width="642" height="440" alt="image" src="https://github.com/user-attachments/assets/a58e37d5-45ed-45f0-883e-f6686c9b9fdc" />
 
+
 <img width="645" height="443" alt="image" src="https://github.com/user-attachments/assets/9f3f7862-a403-4715-b2b1-7436f41e90e8" />
 
+
 <img width="633" height="444" alt="image" src="https://github.com/user-attachments/assets/224bb49b-8d53-4998-86c0-7f24998aa573" />
+
 
 Edit Karel program ros_relay
 Select -> Type Karel
 and then select ros_relay -> press data -> type KAREL Vars
 Select 1 CFG_   RRELAY_CFG_T and press enter
+
 
 Edit following:
 <img width="346" height="319" alt="image" src="https://github.com/user-attachments/assets/031b236a-99bd-449e-9766-081fdc84c9a1" />
