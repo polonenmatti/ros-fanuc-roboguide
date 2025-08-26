@@ -142,21 +142,6 @@ If using default PR, R, F no further editing needed.
 
 Next step would be to run programs, but we need to prepape our Linux and ROS-noetic stack.
 
-[Install WSL2 Linux](https://github.com/polonenmatti/ros-fanuc-roboguide/blob/main/wsl2-ubuntu.md)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## Common issues:
 
@@ -170,6 +155,9 @@ Anti-virus & Firewall issues:
 <img width="471" height="513" alt="image" src="https://github.com/user-attachments/assets/e42384fb-2e0b-4438-81d7-9cc13155e5d5" />
 
 <img width="897" height="481" alt="image" src="https://github.com/user-attachments/assets/fcdd8e00-c0bd-4703-91f0-e66f8acc262d" />
+
+
+[Continue to Install WSL2 Linux](https://github.com/polonenmatti/ros-fanuc-roboguide/blob/main/02_wsl2-ubuntu.md)
 
 
 
