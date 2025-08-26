@@ -10,7 +10,7 @@ First do:
 
 It will install windows subsystem for linux if it's not installed before.
 
-After wls install you will get list of possible distros to install.
+After wsl install you will get list of possible distros to install.
 
 We will install Ubuntu 20.04 with command:
 
