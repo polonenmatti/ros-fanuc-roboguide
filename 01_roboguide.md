@@ -72,7 +72,7 @@ You can exit command line.
 
 ## Follow Fanuc industrial driver installation guide step 1
 
-[ROS Wiki Fanuc Tutorials Step 1](https://wiki.ros.org/fanuc/Tutorials)
+[Source: ROS Wiki Fanuc Tutorials Step 1](https://wiki.ros.org/fanuc/Tutorials)
 
 ## Install from source
 
@@ -109,7 +109,7 @@ Under programs you should have (right click programs -> view all):
 
 ## Follow Configuration of the ROS-Industrial driver on Fanuc controllers
 
-[ROS Wiki Fanuc Tutorials Step 2](https://wiki.ros.org/fanuc/Tutorials)
+[Source: ROS Wiki Fanuc Tutorials Step 2](https://wiki.ros.org/fanuc/Tutorials)
 
 Edit flags:
 
