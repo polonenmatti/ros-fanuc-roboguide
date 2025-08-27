@@ -1,6 +1,8 @@
 ## ros-fanuc-roboguide
 This repository is for Uef summer school 2025 course "Industrial robotics and automation" project work. In this project I tried to get simulated fanuc robot connected with ROS stack.
 
+[Youtube video showcasing demo of project](https://youtu.be/tBIcPK276KE)
+
 ## Setup:
 - 1 PC only
 - Windows 11 host running [Fanuc Roboguide](https://my.fanuc.eu) simulating Fanuc M-10iA robot
