@@ -130,6 +130,32 @@ terminal does not proceed.
 Try ctrl+c to close it. Sometimes it just runs after that. After starting once in terminal session, it usually starts again everytime.
 
 
+# Creating catkin workspace
+http://wiki.ros.org/catkin/Tutorials/create_a_workspace
+
+source /opt/ros/noetic/setup.bash
+
+mkdir -p ~/catkin_ws/src
+cd ~/catkin_ws/
+catkin_make
+
+source devel/setup.bash
+
+echo $ROS_PACKAGE_PATH
+should print:
+/home/youruser/catkin_ws/src:/opt/ros/kinetic/share
+
+cd $HOME/catkin_ws
+
+git clone -b noetic-devel https://github.com/ros-industrial/fanuc.git src/fanuc
+
+rosdep update --include-eol-distros
+
+sosdep install --from-paths src/ --ignore-src --rosdistro noetic
+
+catkin_make
+
+source $HOME/catkin_ws/devel/setup.bash
 
 
 
