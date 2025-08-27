@@ -1,4 +1,4 @@
-In this section we install required fanuc driver packages on ROS stack and test Rviz with Movit.  [Source: Following this](https://github.com/ros-industrial/fanuc)
+In this section we install required fanuc driver packages on ROS stack and test Rviz with Movit.  [Source: Github Fanuc Industrial](https://github.com/ros-industrial/fanuc)
 
 Open terminal.
 `sudo apt install ros-noetic-fanuc-m10ia-support`
@@ -12,7 +12,7 @@ We need to source.
 source ~/.bashrc`
 This makes sourcing automatic when opening new terminal.
 
-[Source: movit guide](https://moveit.github.io/moveit_tutorials/doc/getting_started/getting_started.html#install-ros-and-catkin)
+[Source: Movit Tutorial](https://moveit.github.io/moveit_tutorials/doc/getting_started/getting_started.html#install-ros-and-catkin)
 
 
 `rosdep update --include-eol-distros`
@@ -87,7 +87,7 @@ Still might need to update mesa drivers to fresher and got to get ubuntu pro to 
 
 `sudo add-apt-repository ppa:kisak/kisak-mesa -y`
 
-get it [www.ubuntu.com/pro](www.ubuntu.com/pro)
+Get it [www.ubuntu.com/pro](www.ubuntu.com/pro)
 
 <img width="821" height="367" alt="image" src="https://github.com/user-attachments/assets/926f6ada-6cac-48fe-a2ef-7024238cc6d2" />
 
