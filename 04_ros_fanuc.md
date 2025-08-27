@@ -1,4 +1,4 @@
-In this section we install required fanuc driver packages on ROS stack.  [Following this](https://github.com/ros-industrial/fanuc)
+In this section we install required fanuc driver packages on ROS stack and test Rviz with Movit.  [Following this](https://github.com/ros-industrial/fanuc)
 
 Open terminal.
 `sudo apt install ros-noetic-fanuc-m10ia-support`
@@ -46,6 +46,8 @@ This makes sourcing automatic when opening new terminal.
 `source ~/ws_moveit/devel/setup.bash`
 `echo 'source ~/ws_moveit/devel/setup.bash' >> ~/.bashrc`
 
+## !!Test that Rviz & Movit are working correctly!!
+
 Terminal 1: 
 `roscore`
 
@@ -61,6 +63,11 @@ Add motion planning.
 <img width="513" height="689" alt="image" src="https://github.com/user-attachments/assets/1eebafa1-cea0-42df-b7a8-c3eaa9be45fd" />
 
 
+If you see:
+
+<img width="1302" height="695" alt="image" src="https://github.com/user-attachments/assets/15a9302c-1ef2-420a-9dd5-acfd53811b86" />
+
+Skip common issue 1 & 2. Else continue with those.
 
 ## Common issue 1
 
