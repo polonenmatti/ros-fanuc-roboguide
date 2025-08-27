@@ -132,6 +132,8 @@ Select 1 CFG_   RRELAY_CFG_T and press enter
 
 
 Edit following:
+
+
 <img width="346" height="319" alt="image" src="https://github.com/user-attachments/assets/031b236a-99bd-449e-9766-081fdc84c9a1" />
 
 Edit Karel program ros_state
@@ -140,6 +142,8 @@ and then select ros_state -> press data -> type KAREL Vars
 Select 1 CFG_   RSTATE_CFG_T and press enter
 
 Edit following:
+
+
 <img width="317" height="240" alt="image" src="https://github.com/user-attachments/assets/8643cc38-6795-4078-a98f-be39d8acafe8" />
 
 If using default PR, R, F no further editing needed.
