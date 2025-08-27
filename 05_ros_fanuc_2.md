@@ -1,6 +1,6 @@
 In this section we test connections between ROS+RVIZ+MOVIT+Fanuc driver - Fanuc Roboguide.
 
-[Follow this guide](http://wiki.ros.org/fanuc/Tutorials/Running)
+[Source: ROS Wiki Fanuc Tutorials](http://wiki.ros.org/fanuc/Tutorials/Running)
 
 Start roboguide, on robot virtual robot run TPE program `rosstate`
 
