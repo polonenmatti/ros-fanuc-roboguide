@@ -29,7 +29,9 @@ Run TP program `ros`. Might be better idea to run throught roboguide simulation 
 <img width="372" height="206" alt="image" src="https://github.com/user-attachments/assets/e0f7887c-0771-44d9-b3e4-2ee18757d81e" />
 
 
-<img width="666" height="195" alt="image" src="https://github.com/user-attachments/assets/1d34f3f4-990c-4b78-840a-5949fd440933" />
+See still from pendant you are connected.
+
+<img width="408" height="226" alt="image" src="https://github.com/user-attachments/assets/6307f02f-5a5b-4197-8667-0a83a388ecfc" />
 
 
 
