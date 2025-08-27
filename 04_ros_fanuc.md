@@ -157,5 +157,11 @@ catkin_make
 
 source $HOME/catkin_ws/devel/setup.bash
 
+### Use that source ### 
+
+[Continue to part 2](https://github.com/polonenmatti/ros-fanuc-roboguide/blob/main/05_ros_fanuc_2.md)
+
+
+
 
 
