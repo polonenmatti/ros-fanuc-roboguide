@@ -1,4 +1,4 @@
-In this section we install required fanuc driver packages on ROS stack and test Rviz with Movit.  [Following this](https://github.com/ros-industrial/fanuc)
+In this section we install required fanuc driver packages on ROS stack and test Rviz with Movit.  [Source: Following this](https://github.com/ros-industrial/fanuc)
 
 Open terminal.
 `sudo apt install ros-noetic-fanuc-m10ia-support`
@@ -6,13 +6,14 @@ Open terminal.
 Then we install movit
 `sudo apt install ros-noetic-moveit`
 
-We need to source couple things.
+We need to source. 
 
 `echo "source /opt/ros/noetic/setup.bash" >> ~/.bashrc
 source ~/.bashrc`
 This makes sourcing automatic when opening new terminal.
 
-`https://moveit.github.io/moveit_tutorials/doc/getting_started/getting_started.html#install-ros-and-catkin`
+[Source: movit guide](https://moveit.github.io/moveit_tutorials/doc/getting_started/getting_started.html#install-ros-and-catkin)
+
 
 `rosdep update --include-eol-distros`
 `sudo apt update`
@@ -131,7 +132,7 @@ Try ctrl+c to close it. Sometimes it just runs after that. After starting once i
 
 
 # Creating catkin workspace
-http://wiki.ros.org/catkin/Tutorials/create_a_workspace
+[Source:ROS Wiki Catkin Workspace](http://wiki.ros.org/catkin/Tutorials/create_a_workspace)
 
 source /opt/ros/noetic/setup.bash
 
