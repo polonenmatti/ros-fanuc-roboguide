@@ -1,6 +1,6 @@
 # Preparing roboguide 
 
-## Install roboguide.
+## Install roboguide
 
 During process when asking process plugins, select at least HandlingPRO.
 
