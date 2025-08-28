@@ -70,7 +70,7 @@ If all good, you should see:
 
 You can exit command line.
 
-## Follow Fanuc industrial driver installation guide step 1
+## Fanuc industrial driver installation guide step 1
 
 [Source: ROS Wiki Fanuc Tutorials Step 1](https://wiki.ros.org/fanuc/Tutorials)
 
@@ -107,7 +107,7 @@ Under programs you should have (right click programs -> view all):
 
 <img width="165" height="478" alt="image" src="https://github.com/user-attachments/assets/84115735-360a-4c68-a5df-1c95372d1aed" />
 
-## Follow Configuration of the ROS-Industrial driver on Fanuc controllers
+## Configuration of the ROS-Industrial driver on Fanuc controllers
 
 [Source: ROS Wiki Fanuc Tutorials Step 2](https://wiki.ros.org/fanuc/Tutorials)
 
