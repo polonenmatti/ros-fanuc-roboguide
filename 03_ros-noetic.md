@@ -21,4 +21,6 @@ You should get:
 <img width="308" height="91" alt="image" src="https://github.com/user-attachments/assets/866370fd-dd6d-43c7-9001-84ee31404fe0" />
 
 
+[Continue to ROS fanuc implementation part 1](https://github.com/polonenmatti/ros-fanuc-roboguide/blob/main/04_ros_fanuc.md)
+
 
