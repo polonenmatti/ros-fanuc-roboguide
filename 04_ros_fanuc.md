@@ -132,7 +132,7 @@ Try ctrl+c to close it. Sometimes it just runs after that. After starting once i
 
 
 # Creating catkin workspace
-[Source:ROS Wiki Catkin Workspace](http://wiki.ros.org/catkin/Tutorials/create_a_workspace)
+[Source: ROS Wiki Catkin Workspace](http://wiki.ros.org/catkin/Tutorials/create_a_workspace)
 
 source /opt/ros/noetic/setup.bash
 
